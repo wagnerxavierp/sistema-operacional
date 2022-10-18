@@ -1,0 +1,5 @@
+﻿WinHex 20.6 SR-1 x86, User: wagner
+30/09/22'10:00:16  Inst. 2 Um erro ocorreu enquanto escrevendo "1-001.tmp". Acesso negado.
+30/09/22'10:00:19  Inst. 2 Erro #3 | Um erro ocorreu enquanto escrevendo "1-001.tmp". Acesso negado.
+WinHex 20.6 SR-1 x86, User: wagner
+30/09/22'10:00:37  Programa tipo shareware. Isso quer dizer que você pode distribuir e avaliar livremente esta versão por 45 dias. Ao pagar para registrá-lo, você receberá os códigos necessários para ativar todas as funções do programa. | Cancelar
